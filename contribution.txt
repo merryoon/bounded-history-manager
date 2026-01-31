@@ -1,0 +1,6 @@
+Name: Meron Mekonnen Sinshaw
+          Contribution:
+- Designed the system logic
+- Implemented bounded history using deque
+- Developed CLI commands
+- Wrote documentation and README
